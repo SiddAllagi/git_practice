@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Logging in..."
+echo "Logging in. . ."
